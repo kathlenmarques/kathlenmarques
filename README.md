@@ -14,9 +14,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
-
+  
 <img align="right" height="150" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif"  />
+
+</div>
 
 ###
 
