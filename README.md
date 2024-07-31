@@ -29,6 +29,6 @@
 
 ###
 
-<img align="left" height="150" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif"  />
+<img align="left" height="90" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif"  />
 
 ###
