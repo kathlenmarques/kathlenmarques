@@ -1,8 +1,10 @@
 <h3 align="left">Hey, Kat here!</h3>
 
 ###
-
-
+<div>
+<div align="right">
+  <img align="right" height="150" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif"  />
+</div>
 <div align="left">
   <h5 align="left">Coding with:</h5>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -14,9 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  
-<img align="right" height="150" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif"  />
-
+</div>
 </div>
 
 ###
