@@ -2,13 +2,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kathlenmarques&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=calm&locale=en&hide_border=true" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kathlenmarques&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=calm&hide_border=true" height="100" alt="languages graph"  />
-</div>
-
-###
-
 <h5 align="left">Coding with:</h5>
 
 ###
@@ -27,6 +20,13 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif"  />
+<img align="right" height="220" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kathlenmarques&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=calm&locale=en&hide_border=true" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kathlenmarques&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=calm&hide_border=true" height="120" alt="languages graph"  />
+</div>
 
 ###
