@@ -27,14 +27,6 @@
 
 ###
 
-<img align="left" height="150" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif"  />
-
-###
-
-<h5 align="left">About:</h5>
-
-###
-
-<p align="left">Front End Developer<br>São Paulo, BR<br>25  |  she/her</p>
+<img align="right" height="150" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif"  />
 
 ###
